@@ -1,0 +1,11 @@
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\bin\Debug\Latihan 1.exe.config
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\bin\Debug\Latihan 1.exe
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\bin\Debug\Latihan 1.pdb
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\bin\Debug\Latihan 1.xml
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\obj\Debug\Latihan_1.Form2.resources
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\obj\Debug\Latihan_1.Resources.resources
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\obj\Debug\Latihan 1.vbproj.GenerateResource.Cache
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\obj\Debug\Latihan 1.exe
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\obj\Debug\Latihan 1.xml
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\obj\Debug\Latihan 1.pdb
+d:\document\visual studio 2013\Projects\Latihan 1\Latihan 1\obj\Debug\Latihan_1.AplikasiLatihan.resources

@@ -1,0 +1,10 @@
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\bin\Debug\Tugas 1.exe.config
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\bin\Debug\Tugas 1.exe
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\bin\Debug\Tugas 1.pdb
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\bin\Debug\Tugas 1.xml
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas_1.Change.resources
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas_1.Resources.resources
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas 1.vbproj.GenerateResource.Cache
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas 1.exe
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas 1.xml
+d:\document\visual studio 2013\Projects\Tugas 1\Tugas 1\obj\Debug\Tugas 1.pdb
